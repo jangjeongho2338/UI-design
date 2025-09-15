@@ -36,6 +36,8 @@
 9. 과도한 광고등은 사용자를 불쾌하게 함
 10. 사용자 행동을 분석하고 피드백을 수집하지 않으면 지속적인 개선 가능성 저하
 
+구글 무료 폰트 https://fonts.google.com/ roboto noto sans
+디자인 DEVERV
 
 
 
